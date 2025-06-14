@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CanIEat</string>
+    <string name="app_name">먹어도돼?</string>
     <string name="captured_image">Captured Image</string>
     <string name="button_capture">먹을까?</string>
     <string name="text_hint">결과가 여기에 표시됩니다</string>
