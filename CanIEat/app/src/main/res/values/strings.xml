@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CanIEat</string>
+    <string name="captured_image">Captured Image</string>
+    <string name="button_capture">먹을까?</string>
+    <string name="text_hint">결과가 여기에 표시됩니다</string>
+    <string name="bookmark_button">북마크 버튼</string>
+</resources>
